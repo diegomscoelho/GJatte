@@ -1,5 +1,3 @@
-<p align="center"><img src="https://diegomscoelho.github.io/sincellapp/img/profile.png" width="200">
-
 # GJatte
 Single-cell RNAseq data visualization library (https://github.com/diegomscoelho/GJatte)
 
@@ -19,3 +17,5 @@ Marques-Coelho, 2018
 
 ### Acknowledgements
 BioME UFRN (https://bioinfo.imd.ufrn.br)
+
+<p align="center"><img src="https://diegomscoelho.github.io/sincellapp/img/profile.png" width="100">
