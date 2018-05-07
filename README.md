@@ -1,5 +1,5 @@
 # GJatte
-Single-cell RNAseq data visualization library
+Single-cell RNAseq data visualization library (https://github.com/diegomscoelho/GJatte)
 
 ### Description
 
