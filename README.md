@@ -1,3 +1,5 @@
+<p align="center"><img src="https://diegomscoelho.github.io/sincellapp/img/profile.png" width="200">
+
 # GJatte
 Single-cell RNAseq data visualization library (https://github.com/diegomscoelho/GJatte)
 
