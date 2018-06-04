@@ -11,7 +11,7 @@ Create a library in R that will facilitate scRNAseq data sharing. Reprocessing a
 install_github('devtools')  
 library('devtools')  
 install_github('GJatte','diegomscoelho')  
-library('Gjatte')  
+library('GJatte')  
 ```
 
 ### Main Goal
